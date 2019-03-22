@@ -1,4 +1,4 @@
-#Kevin Mitnick#
+# Kevin Mitnick #
 
 **Ángel García Menéndez**
 
@@ -9,12 +9,12 @@ TODO: escribir un resumen decente, máximo 200 palabras
 
 **Keywords**
 
-1. ##Introducción##
+1. ## Introducción ##
 
-2. ##Epígrafe/s para el desarrollo del trabajo##
+2. ## Epígrafe/s para el desarrollo del trabajo ##
 
-3. ##Conclusión##
+3. ## Conclusión ##
 
-4. ##Referencias##
+4. ## Referencias ##
 
 
