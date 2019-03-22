@@ -9,12 +9,12 @@ TODO: escribir un resumen decente, máximo 200 palabras
 
 **Keywords**
 
-1. ## Introducción ##
+## Introducción ##
 
-2. ## Epígrafe/s para el desarrollo del trabajo ##
+## Epígrafe/s para el desarrollo del trabajo ##
 
-3. ## Conclusión ##
+## Conclusión ##
 
-4. ## Referencias ##
+## Referencias ##
 
 
